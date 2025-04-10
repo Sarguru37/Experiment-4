@@ -17,8 +17,8 @@
 9. Stop the program. 
 
 # Program
-```x = input("Enter a number: ")  
-
+```python
+x = input("Enter a number: ")  
 if x.isnumeric():  
     x = int(x)  
     temp = x  
